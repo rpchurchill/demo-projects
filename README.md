@@ -1,2 +1,2 @@
-# demo-projects
-Repository for ongoing experiments and demonstrations
+# discrete-event-sim
+Discrete-Event Simulation Framework
